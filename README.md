@@ -39,7 +39,8 @@ cd <medtracker>
 
 ### 2. Ouverture du projet
 - Ouvrez le dossier du projet à l'aide d'**Android Studio** (logiciel gratuit, recommandé pour le développement Android).  
-- Pour ce faire une fois Android studio ouvert allez dans file/new/Project from version control et copier l'url de ce repo (en s'assurant d'avoir bien choisi Github)  
+- Pour ce faire une fois Android studio ouvert allez dans file/new/Project from version control et copier l'url de ce repo (en s'assurant d'avoir bien choisi Github)
+- Si apres clonage le code du projet apparait avec des erreurs, il est probable que le cache ce soit corrompu, pour y remedier il faut aller dans file/invalidate cache, tout cocher puis invalidate and restart  
 - [Télécharger Android Studio](https://developer.android.com/studio)
 
 ### 3. Lancement de l'application
