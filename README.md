@@ -33,8 +33,8 @@
 
 ### 1. Clonage du projet
 ```bash
-git clone https://github.com/<votre-utilisateur>/<votre-repo>.git
-cd <votre-repo>
+git clone https://github.com/<Gavv06>/<medtracker>.git
+cd <medtracker>
 ```
 
 ### 2. Ouverture du projet
